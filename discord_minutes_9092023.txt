@@ -1,0 +1,40 @@
+- September 9, 2023 -
+
+10:01pm - ChiTrungLai
+@everyone I hope you had read through Pass task that due next week
+I really really really need your involvement to the Jira board because we need to do some admin tasks on that
+
+10:17pm - ChiTrungLai
+Please pick up a task that you think you could handle
+
+10:39pm - Angus Upshall
+I think I'm assigned to some tasks already? Do I have to confirm on Jira?
+
+10:40pm - ChiTrungLai
+I don't think si
+so
+
+10:41pm - Angus Upshall
+Is there more I need to do from being assigned a task?
+
+10:41pm - ChiTrungLai
+I think we don't need to actually build the solfware. Just pretend that we excecuting tasks
+Have a look in the lecture recording as well
+This is my understanding so far
+
+10:44pm - Angus Upshall
+I'm away from my laptop tonight but will be back home tomorrow morning. What aside from task assignment needs to be done?
+
+10:44pm - ChiTrungLai
+These
+I can do the burndown chart, and I need others to do other tasks
+
+10:46pm - Angus Upshall
+I can take minutes for the stand ups
+
+10:46pm - ChiTrungLai
+Cool, we'd need 5 days of it
+What I am gonna do is to ask for extension
+Because the burndown chart is a live capture time thing
+We can't lie about it
+So I did recorded today's burndown chart, and till Monday it is 3 days -> so we need until Wednesday to have all of them line up
